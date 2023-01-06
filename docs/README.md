@@ -1,4 +1,5 @@
 # Project Documents
+> More information on Wiki tab
 ## Graph Convolutional Networks 
 
 From ['Semi-supervised Classification with Graph Convolutional Networks'](https://arxiv.org/abs/1609.02907) paper
