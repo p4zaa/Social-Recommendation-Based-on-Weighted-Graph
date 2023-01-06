@@ -22,7 +22,7 @@ or
 |$A^{*}=\hat{D}^{-\frac{1}{2}}\hat{A}\hat{D}^{-\frac{1}{2}}$|Normalizing term|
 
 **Ref:**
-Mayachita, I. (n.d.). Understanding Graph Convolutional Networks for Node Classification. Towards Data Science. Retrieved January 7, 2023, from https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b
+> Mayachita, I. (n.d.). Understanding Graph Convolutional Networks for Node Classification. Towards Data Science. Retrieved January 7, 2023, from https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b
 
 ---
 ### Node Degree
