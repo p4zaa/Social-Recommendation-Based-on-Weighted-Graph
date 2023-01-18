@@ -8,7 +8,7 @@ A social graph is a representation of the relationships and connections between 
 </p>
 
 > Image of an example of the social network where users are connected with relationships. <br/>
-> designed by [Freepik from Flaticon](https://www.flaticon.com/authors/freepik)
+> Icons designed by [Freepik from Flaticon](https://www.flaticon.com/authors/freepik)
 
 ## What is social recommendation
 Social recommendation refers to a type of recommendation system that utilizes information about the **social connections** and **interactions** of users to generate personalized recommendations. This can include recommendations for products, content, or other items that are **influenced** by the actions and preferences of a user's friends, family, or other connections on a social network. Social recommendation systems can be used in a variety of contexts, such as online shopping, social media, and online communities.
@@ -18,4 +18,4 @@ Social recommendation refers to a type of recommendation system that utilizes in
 </p>
 
 > Image of an example of how user can be influenced by non-relationship user through user's close friends. <br/>
-> designed by [Freepik from Flaticon](https://www.flaticon.com/authors/freepik)
+> Icons designed by variety of creators from [Flaticon](https://www.flaticon.com/)
