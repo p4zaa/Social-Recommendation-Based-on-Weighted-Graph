@@ -19,3 +19,25 @@ Social recommendation refers to a type of recommendation system that utilizes in
 
 > Image of an example of how user can be influenced by non-relationship user through user's close friends. <br/>
 > Icons designed by variety of creators from [Flaticon](https://www.flaticon.com/)
+
+## Why graph-based instead of matrix-based
+Graphs are well suited for modeling relationships between entities, which is key aspect of social networks. They provide a **more flexible and expressive** way to **represent complex relationships** than traditional matrix-based methods. 
+<br/>
+<br/>
+One of the main advantages of using graph is that it can easily handle relationships that are not symetric, such as one-way friendships or directed edges representing 'following' or 'mentioning'. In contrast, matrix-based representations can only handle symetric relationships. 
+<br/>
+<br/>
+Graphs also have the ability to handle sparse data and the ability to scale. Graph algorithms are efficient for traversing large and sparse data sets, making it possible to analyze and make sense of large social networks. 
+<br/>
+<br/>
+Also, graph can easily handle the dynamic nature of social networks where relationships are constantly changing, whereas matrices need to be rebuild every time chages occur. 
+<br/>
+<br/>
+In summary, graph-based representation are well suited for modeling social networks because they provide a flexible and expressive way to present complex relationships and can handle the dynamic nature of social networks, sparse data and scale better than traditional matrix-based methods <br/>
+
+<p align='center'>
+  <img src='https://developers.google.com/machine-learning/recommendation/images/Matrixfactor.svg' width='100%' />
+</p>
+
+> Image visualization of how matrix factorization work. <br/>
+> Image by [Google Developers](https://developers.google.com/machine-learning/recommendation/collaborative/matrix)
