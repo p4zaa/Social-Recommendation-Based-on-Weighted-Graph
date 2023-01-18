@@ -36,7 +36,7 @@ Also, graph can easily handle the dynamic nature of social networks where relati
 In summary, graph-based representation are well suited for modeling social networks because they provide a flexible and expressive way to present complex relationships and can handle the dynamic nature of social networks, sparse data and scale better than traditional matrix-based methods <br/>
 
 <p align='center'>
-  <img src='https://developers.google.com/machine-learning/recommendation/images/Matrixfactor.svg' width='100%' />
+  <img src='https://github.com/p4zaa/Social-Recommendation-Based-on-Weighted-Graph/blob/62b8f51b7e3bea708891108d86f18c6c50b99b06/resources/Matrixfactor.svg?raw=true' width='100%' />
 </p>
 
 > Image visualization of how matrix factorization work. <br/>
