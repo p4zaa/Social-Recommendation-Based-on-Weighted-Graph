@@ -19,7 +19,7 @@ Where:
 
 And the weight between each edges relationship with the following equation:
 
-## $$w_{ab} = \frac{\frac{E_b}{\sum_{c\in b's neighbors}E_c}}{\frac{E_a}{\sum_{b\in a's neighbors}E_b}} = \frac{w_b}{w_a}$$
+## $$w_{ab} = \frac{\frac{E_a}{\sum_{b\in a's neighbors}E_b}}{\frac{E_b}{\sum_{c\in b's neighbors}E_c}} = \frac{w_a}{w_b}$$
 
 Where:
 |Symbols|Description|
