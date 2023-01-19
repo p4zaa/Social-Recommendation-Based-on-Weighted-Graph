@@ -24,7 +24,7 @@ And the weight between each edges relationship with the following equation:
 Where:
 |Symbols|Description|
 |-------|-----------|
-|$w_ab$|Edge weight between user a and b|
+|$w_{ab}$|Influence weight from user a to user b (a-->b)|
 |$w_a$|User a's weight|
 |$w_b$|User b's weight|
 
