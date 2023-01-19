@@ -5,6 +5,8 @@ The weighted user-user graph can interpreted edge weight as the 'power of influe
 <br/>
 In this example I will using only node degree to compute the edge weight in every connection edges by computing individual weight for each user nodes with the following equation:
 
+`Every nodes must be having in-degree and out-degree atleast 1`
+
 ## $$w_a = \frac{E_a}{\sum_{b\in a's neighbors} E_b}$$
 
 Where:
