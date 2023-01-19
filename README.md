@@ -1,5 +1,5 @@
 # Social Recommendation Based on Weighted Graph
-## Weight between user and user connected with relationship edges (influence weight)
+## Weight between user and user connected with relationship edges
 The weighted user-user graph can interpreted edge weight as the 'power of influenced' to eachother. The weight can be calculation by using many information from the graph such as node degree, mutual information or [recommendation power](https://ieeexplore.ieee.org/document/4770004).
 <br/>
 <br/>
