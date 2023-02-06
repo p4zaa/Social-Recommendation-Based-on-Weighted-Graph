@@ -1,5 +1,5 @@
 # Proposed Weights Calculation
-## Weight on user influence graph
+## Weight on User Influence Graph
 > Weight between user and user connected with relationship edges <br/>
 
 The weighted user-user graph can interpreted edge weight as the 'power of influenced' to eachother. The weight can be calculation by using many information from the graph such as node degree, mutual information or [recommendation power](https://ieeexplore.ieee.org/document/4770004).
@@ -32,7 +32,7 @@ Where:
 |$w_a$|User $a$'s weight|
 |$w_b$|User $b$'s weight|
 
-## Weight between users and items connected with relationship edges
+## Weight on User Interest Graph
 > Weight between user and item connected with relationship edges <br/>
 
 `Every nodes must be having in-degree and out-degree atleast 1`
