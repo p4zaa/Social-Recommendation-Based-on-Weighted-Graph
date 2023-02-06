@@ -2,6 +2,10 @@
 ## Weight on User Influence Graph
 > Weight between user and user connected with relationship edges <br/>
 
+<p align='center'>
+  <img src='https://github.com/p4zaa/Social-Recommendation-Based-on-Weighted-Graph/blob/3979835c288b1e8df945d9ae7a8234bacf8c73a5/resources/senior%20project%20for%20portfolio-influence%20graph.png' width='30%' />
+</p>
+
 The weighted user-user graph can interpreted edge weight as the 'power of influenced' to eachother. The weight can be calculation by using many information from the graph such as node degree, mutual information or [recommendation power](https://ieeexplore.ieee.org/document/4770004).
 <br/>
 <br/>
@@ -34,6 +38,10 @@ Where:
 
 ## Weight on User Interest Graph
 > Weight between user and item connected with relationship edges <br/>
+
+<p align='center'>
+  <img src='https://github.com/p4zaa/Social-Recommendation-Based-on-Weighted-Graph/blob/3979835c288b1e8df945d9ae7a8234bacf8c73a5/resources/senior%20project%20for%20portfolio-interest%20graph.png' width='30%' />
+</p>
 
 `Every nodes must be having in-degree and out-degree atleast 1`
 
