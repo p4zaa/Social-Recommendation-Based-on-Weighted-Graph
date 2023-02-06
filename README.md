@@ -15,6 +15,12 @@ The project “Social Recommendation Based on Weighted Graph” was conducted wi
 ## Scope
 The scope of the project is to compare the experimental evaluation with the “A Neural Influence and Interest Diffusion Network for Social Recommendation” or [DiffNet++](https://arxiv.org/abs/2002.00844) method on the Yelp dataset only, with a minimum of 5,000 users and a minimum of 40,000 items. The experimental evaluation method was measured using the Hit Ratio and Normalized Discounted Cumulative Gain method. The experimental results on a real-world dataset show that the social recommendation based on weighted graph can improve the effectiveness. <br/>
 
+<p align='center'>
+  <img src='https://github.com/p4zaa/Social-Recommendation-Based-on-Weighted-Graph/blob/9d926196208ca28cc4691f26852f90acff391dd0/resources/diffnet++-Overall.png' width='100%' />
+</p>
+
+> The diagram of DiffNet++ Model Architecture by @p4zaa
+
 ---
 
 > DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation <br/>
