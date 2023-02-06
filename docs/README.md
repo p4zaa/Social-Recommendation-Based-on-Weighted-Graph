@@ -1,14 +1,17 @@
-# Project Documents
-> More information on Wiki tab
+# Graph Neural Network Equations
+> More information in wiki
 ## Graph Convolutional Networks 
 
 From ['Semi-supervised Classification with Graph Convolutional Networks'](https://arxiv.org/abs/1609.02907) paper
 > Kipf, T. N., & Welling, M. (2017). Semi-supervised classification with graph convolutional networks. In International Conference on Learning Representations (ICLR).
 
-### **$H^{l+1} = \sigma (\hat{D}^{-\frac{1}{2}}\hat{A}\hat{D}^{-\frac{1}{2}}H^{l}W^{l})$**
-or
-### **$H^{l+1} = \sigma (A^{*}W^{l}H^{l})$**
-**Where** <br/>
+$H^{l+1} = \sigma (\hat{D}^{-\frac{1}{2}}\hat{A}\hat{D}^{-\frac{1}{2}}H^{l}W^{l})$ <br/>
+
+or <br/>
+
+$H^{l+1} = \sigma (A^{*}W^{l}H^{l})$ <br/>
+
+**Where:** <br/>
 |`Symbol`|`Description`|
 |---|---|
 |$H^{l+1}$|Feature representation at layer ${l+1}$|
@@ -104,7 +107,7 @@ $$\hat{D}^{-\frac{1}{2}} = \begin{bmatrix} \frac{1}{\sqrt{2}} & 0 & 0 \\\ 0 & \f
 Note that the inverse square root of a matrix is not necessarily unique, and there may be multiple valid solutions.
 
 ---
-### $\hat{D}^{-\frac{1}{2}}\hat{A}\hat{D}^{-\frac{1}{2}}$ Term
+### Normalizing Term
 The term $\hat{D}^{-\frac{1}{2}}\hat{A}\hat{D}^{-\frac{1}{2}}$ is a way of normalizing the adjacency matrix of a graph. It is often used in graph convolutional networks to improve the performance and stability of the model.
 
 Here, $\hat{A}$ is the adjacency matrix of the graph, and $\hat{D}^{-\frac{1}{2}}$ is the inverse square root of the degree matrix of the graph. The degree matrix of a graph is a diagonal matrix with the degree of each node on the diagonal.
