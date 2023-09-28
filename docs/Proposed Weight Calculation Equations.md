@@ -13,7 +13,7 @@ In this example I will using only node degree to compute the edge weight in ever
 
 `Every nodes must be having in-degree and out-degree atleast 1`
 
-## $$w_a = \frac{E_a}{\sum_{b\in a's neighbors} E_b}$$
+$$w_a = \frac{E_a}{\sum_{b\in a's neighbors} E_b}$$
 
 Where:
 |Symbols|Description|
@@ -27,7 +27,7 @@ Where:
 
 And the weight between each edges relationship with the following equation:
 
-## $$w_{ab} = \frac{\frac{E_a}{\sum_{b\in a's neighbors}E_b}}{\frac{E_b}{\sum_{c\in b's neighbors}E_c}} = \frac{w_a}{w_b}$$
+$$w_{ab} = \frac{\frac{E_a}{\sum_{b\in a's neighbors}E_b}}{\frac{E_b}{\sum_{c\in b's neighbors}E_c}} = \frac{w_a}{w_b}$$
 
 Where:
 |Symbols|Description|
@@ -45,7 +45,7 @@ Where:
 
 `Every nodes must be having in-degree and out-degree atleast 1`
 
-## $$w_{ai} = \frac{r_{ai}}{\sum_{k\in R_a} r_{ak}}$$
+$$w_{ai} = \frac{r_{ai}}{\sum_{k\in R_a} r_{ak}}$$
 
 Where:
 |Symbols|Description|
